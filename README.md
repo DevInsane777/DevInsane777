@@ -1,6 +1,6 @@
-`- 🔮 @RayPixel-Dev`
+`- 🔮 @DevInsane777`
 
-`- 🌙 i love coding & learning new things every second.`
+`- 🌙 I love coding & learning new things every second.`
 
 `- 🍹 I do code in Java, HTML + CSS + JAVASCRIPT , Python etc.`
 
