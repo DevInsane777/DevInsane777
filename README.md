@@ -1,10 +1,6 @@
-`- 🔮 @DevInsane777`
+`- 🌴 @TeamCyborg777`
 
-`- 🌙 I love coding & learning new things every second.`
-
-`- 🍹 I do code in Java, HTML + CSS + JAVASCRIPT , Python etc.`
-
-
+`- 🌙 We love coding & learning new things every second.`
 
 <!---
 RayPixel-Dev/RayPixel-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
